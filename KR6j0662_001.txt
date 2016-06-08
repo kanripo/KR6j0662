@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:13.638323
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
@@ -16,7 +16,8 @@ No.1796[cf.No.848]¶
 ¶
 沙門一行阿闍梨記¶
 
-1入真言門住心品(一-二)
+* 1入真言門住心品(一-三)
+** 1
 :PROPERTIES:
 :head: 入真言門住心品第一
 :END:

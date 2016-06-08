@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:14.061676
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
@@ -15,7 +15,8 @@
 ¶
 沙門一行阿闍梨記¶
 
-6悉地出現品(一一-一二)
+* 6悉地出現品(一一-一二)
+** 1
 :PROPERTIES:
 :head: 悉地出現品第六
 :END:

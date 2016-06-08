@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:13.695722
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 大毘盧遮那成佛經疏卷第二¶
+ 
+** 2大毘盧遮那成佛經疏卷第二¶
 ¶
 沙門一行阿闍梨記¶
 
