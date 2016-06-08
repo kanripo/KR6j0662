@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:13.746466
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1796
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0662_T_003-0605c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 大毘盧遮那成佛經疏卷第三¶
+大毘盧遮那成佛經疏卷第三¶
 ¶
 沙門一行阿闍梨記¶
 
-:PROPERTIES:
-:head: 入真言門住心品之餘
-:END:
-¶
+* 入真言門住心品之餘¶
 
 經云。爾時執金剛祕密主。白佛言世尊。願救¶
 世者演說心相。菩薩有幾種得無畏處。乃至¶
@@ -304,7 +300,7 @@
 其意。復當如如不動為人演說之。故曰持明¶
 者當如是說。
 
-經云。復次祕密主。如天降雨¶
+經云。復次祕蜜主。如天降雨¶
 生泡。彼真言悉地種種變化。當知亦爾者。聲¶
 聞經以受譬浮泡。般若中以泡為喻。雖實無¶
 性。而因緣猶是實法。欲十句中有如化而不¶
@@ -403,11 +399,7 @@
 心相竟。從此以下。明進修方便及悉地果生¶
 也。¶
 
-2入漫荼羅具緣真言品(二-九)
-:PROPERTIES:
-:head: 入漫荼羅具緣真言品第二
-:END:
-¶
+* 入漫荼羅具緣真言品第二¶
 
 入漫荼羅具緣真言品第二者。上品已約種¶
 種心相。對辨一切智心竟。然此妙果。以何方¶

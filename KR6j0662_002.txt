@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:13.695722
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1796
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0662_T_002-0593b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 大毘盧遮那成佛經疏卷第二¶
+大毘盧遮那成佛經疏卷第二¶
 ¶
 沙門一行阿闍梨記¶
 
-:PROPERTIES:
-:head: 入真言門住心品第一之餘
-:END:
-¶
+* 入真言門住心品第一之餘¶
 
 經云。尊貴者。此是那羅延天。外道計此天湛¶
 然常住不動。而有輔相造成萬物。譬如人主¶
@@ -579,7 +575,7 @@
 者不安此心亦爾。若行善事如大施等。既作¶
 已便生追悔之心。若作惡事竟。復自思惟亦¶
 懷慚懼。是故常懷惡作動慮不安。此中對治¶
-法。若有犯速務懺除。勿生掉悔。所為善事。應¶
+法。若有犯速務懺除。勿生悼悔。所為善事。應¶
 自思惟生慶幸心。第四十一云何窟心。謂順¶
 修為入窟法者。謂諸龍阿修羅等。皆在地下¶
 或海底深窟中。多有神仙諸藥。能得長壽自¶

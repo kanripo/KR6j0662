@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:13.831059
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:22
 #+TITLE: 大毘盧遮那成佛經疏
 #+PROPERTY: CBETA_ID T39n1796
 #+PROPERTY: ID KR6j0662
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1796
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0662_T_005-0626b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大毘盧遮那成佛經疏卷第五¶
+大毘盧遮那成佛經疏卷第五¶
 ¶
 沙門一行阿闍梨記¶
 
-:PROPERTIES:
-:head: 入漫荼羅具緣品之餘
-:END:
-¶
+* 入漫荼羅具緣品之餘¶
 
 偈云持真言行者。明弟子支分中護持建立¶
 方便。至第六夜。師及弟子皆澡浴清淨。著新¶
@@ -830,7 +826,7 @@
 東門中。畫文殊師利。身欝金色。頂有五髻作¶
 童子形。左持泥盧鉢羅。是細葉青蓮花。花上¶
 有金剛印。極熙怡微笑坐白蓮花臺。此其祕¶
-密摽幟也。阿闍梨言。欝金即是閻浮金色。¶
+密摽幟也。阿闍梨言。欝金即是閻淨金色。¶
 用表金剛深慧。首有五髻者。為表如來五智¶
 久已成就。以本願因緣故。示作童真法王子¶
 形。青蓮是不染著諸法三昧。以心無所住故¶
